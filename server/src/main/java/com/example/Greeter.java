@@ -1,8 +1,14 @@
 package com.example;
 
-
+/**
+*this is a class
+*
+*/
 public class Greeter {
-
+/**
+*this is a constructor
+*
+*/
   
   public Greeter() {
 
